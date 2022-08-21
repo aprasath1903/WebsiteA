@@ -1,0 +1,5 @@
+Welcome to DevOps Training
+
+Topics to be covered:
+1.GIT Commands
+2.Git Bash
